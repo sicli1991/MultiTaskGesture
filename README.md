@@ -5,15 +5,26 @@ Hand gesture detection is a well-explored area in computer vision with applicati
 
 <p align='center'>
   <img width='300' height='200' src="example.gif"/>
- </p>
+</p>
  
 
 ## ***Dataset***
-We use background subtraction to detect binary hand regions, k-means clustering to isolate each hand, crop the image to
-tightly include each hand region, and resize it to a 100x100 pixel image.
-![image](https://github.com/sicli1991/MultiTaskGesture/assets/55030732/f5480ed5-6fe0-4cee-9e77-6fa5ebc01fb3)
+Data captured with Viento-G thermal camera. We use background subtraction to detect binary hand regions, k-means clustering to isolate each hand, crop the image to tightly include each hand region, and resize it to a 100x100 pixel image.
+
+<p align='center'>
+<img width="600" alt="image" src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/f5480ed5-6fe0-4cee-9e77-6fa5ebc01fb3">
+</p>
+
 ### Raw Data
+
+<img width="300" alt="image" src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/b0e518d2-5636-4ade-a6ee-b1bfb68e7f75">
+
+We have 24 users(with both left and right hand) 
+Video captured in 30fps
+Saved as 16 bit  640×480 TIFF
+
 Google Drive Link: https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link
+
 ### Cropped Data
 
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/55030732/235724880-1ae363f1-e97c-4d56-93c1-4d8fc1404593.png">
