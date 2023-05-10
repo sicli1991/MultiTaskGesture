@@ -28,7 +28,7 @@ $~~~~$ **Download from Google Drive** [HERE](https://drive.google.com/file/d/1Da
 ### ***Cropped Data***
 
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/55030732/235724880-1ae363f1-e97c-4d56-93c1-4d8fc1404593.png">
-Google Drive Link: https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link
+$~~~~$ **Download from Google Drive** [HERE](https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link)
 
 
 ## ***Dataset Distribution***
