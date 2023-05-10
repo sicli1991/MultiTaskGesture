@@ -15,17 +15,17 @@ Data captured with Viento-G thermal camera. We use background subtraction to det
 <img width="600" alt="image" src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/f5480ed5-6fe0-4cee-9e77-6fa5ebc01fb3">
 </p>
 
-### Raw Data
+### ***Raw Data***
 
-<img width="300" alt="image" src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/b0e518d2-5636-4ade-a6ee-b1bfb68e7f75">
+<img hspace="15" width="300" alt="image" src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/b0e518d2-5636-4ade-a6ee-b1bfb68e7f75">
 
--We have 24 users(with both left and right hand)
--Video captured in 30fps
--Saved as 16 bit  640×480 TIFF
+* We have 24 users(with both left and right hand)
+* Video captured in 30fps
+* Saved as 16 bit  640×480 TIFF
 
-Google Drive Link: https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link
+$~~~~$ **Download from Google Drive** [HERE](https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link)
 
-### Cropped Data
+### ***Cropped Data***
 
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/55030732/235724880-1ae363f1-e97c-4d56-93c1-4d8fc1404593.png">
 Google Drive Link: https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link
