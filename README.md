@@ -9,7 +9,8 @@ Hand gesture detection is a well-explored area in computer vision with applicati
  
 
 ## ***Dataset***
-
+We use background subtraction to detect binary hand regions, k-means clustering to isolate each hand, crop the image to
+tightly include each hand region, and resize it to a 100x100 pixel image.
 ![image](https://github.com/sicli1991/MultiTaskGesture/assets/55030732/f5480ed5-6fe0-4cee-9e77-6fa5ebc01fb3)
 ### Raw Data
 Google Drive Link: https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link
