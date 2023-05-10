@@ -1,15 +1,16 @@
 # Simultaneous prediction of hand gestures, handedness, and hand keypoints using thermal images
 
 ## Abstract
-
+Hand gesture detection is a well-explored area in computer vision with applications in various forms of Human-Computer Interactions. In this work, we propose a technique for simultaneous hand gesture classification, handedness detection, and hand keypoints localization using thermal data captured by an infrared camera. Our method uses a novel deep multi-task learning architecture that includes shared encoder-decoder layers followed by three branches dedicated for each mentioned task. We performed extensive experimental validation of our model on an in-house dataset consisting of 24 users' data. The results confirm higher than 98% accuracy for gesture classification, handedness detection, and fingertips localization, and more than 91% accuracy for wrist points localization.
 ![image](https://github.com/sicli1991/MultiTaskGesture/assets/55030732/015d4900-67c6-4c5a-b91f-24633976e94e)
-
-Cropped Dataset:
+## Dataset
+### Raw Data
+Google Drive Link: https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link
+### Cropped Data
 
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/55030732/235724880-1ae363f1-e97c-4d56-93c1-4d8fc1404593.png">
 Google Drive Link: https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link
-Raw Dataset:
-Google Drive Link: https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link
+
 
 ## ***Dataset Distribution***
 
