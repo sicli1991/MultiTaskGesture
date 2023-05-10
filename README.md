@@ -3,7 +3,8 @@
 ## Abstract
 Hand gesture detection is a well-explored area in computer vision with applications in various forms of Human-Computer Interactions. In this work, we propose a technique for simultaneous hand gesture classification, handedness detection, and hand keypoints localization using thermal data captured by an infrared camera. Our method uses a novel deep multi-task learning architecture that includes shared encoder-decoder layers followed by three branches dedicated for each mentioned task. We performed extensive experimental validation of our model on an in-house dataset consisting of 24 users' data. The results confirm higher than 98% accuracy for gesture classification, handedness detection, and fingertips localization, and more than 91% accuracy for wrist points localization.
 ![image](https://github.com/sicli1991/MultiTaskGesture/assets/55030732/015d4900-67c6-4c5a-b91f-24633976e94e)
-## Dataset
+## ***Dataset***
+
 ### Raw Data
 Google Drive Link: https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link
 ### Cropped Data
