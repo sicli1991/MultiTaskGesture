@@ -9,5 +9,12 @@ Google Drive Link: https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1v
 Raw Dataset:
 Google Drive Link: https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link
 
-![image](https://github.com/sicli1991/MultiTaskGesture/assets/55030732/0968ee3a-5d3c-4eb1-aa65-3133d787033d)
-![image](https://github.com/sicli1991/MultiTaskGesture/assets/55030732/03cfd0ff-8713-42cd-8141-487906febcbb)
+**Dataset Distribution**
+
+<p align='center'>
+  <img src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/0968ee3a-5d3c-4eb1-aa65-3133d787033d"/>
+ </p>
+ 
+ <p align='center'>
+  <img src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/03cfd0ff-8713-42cd-8141-487906febcbb"/>
+ </p>
