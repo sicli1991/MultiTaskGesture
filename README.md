@@ -23,14 +23,15 @@ Data captured with Viento-G thermal camera. We use background subtraction to det
 * Video captured in 30fps
 * Saved as 16 bit  640×480 TIFF
 
-$~~~~$ ***Download from Google Drive*** [HERE](https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link)
+$ensp; ***Download from Google Drive*** [HERE](https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link)
 
 ### ***Cropped Data***
 
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/55030732/235724880-1ae363f1-e97c-4d56-93c1-4d8fc1404593.png">
-100x100 Binary Image<br/>
-Label<br/>
-$~~~~$ ***Download from Google Drive*** [HERE](https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link)<br/>
+&ensp; 100x100 Binary Image<br/>
+&ensp; Label<br/>
+
+&ensp; ***Download from Google Drive*** [HERE](https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link)<br/>
 
 
 ## ***Dataset Distribution***
