@@ -41,3 +41,8 @@ Data captured with Viento-G thermal camera. We use background subtraction to det
  <p align='center'>
   <img height="150" src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/03cfd0ff-8713-42cd-8141-487906febcbb"/>
  </p>
+
+## ***Model Structure***
+<p align='center'>
+  <img height="350" src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/9c66df1f-eb83-463f-b977-940aeef34157"/>
+</p>
