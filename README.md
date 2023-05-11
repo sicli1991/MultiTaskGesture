@@ -28,8 +28,9 @@ $~~~~$ ***Download from Google Drive*** [HERE](https://drive.google.com/file/d/1
 ### ***Cropped Data***
 
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/55030732/235724880-1ae363f1-e97c-4d56-93c1-4d8fc1404593.png">
-
-$~~~~$ ***Download from Google Drive*** [HERE](https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link)
+100x100 Binary Image<br/>
+Label<br/>
+$~~~~$ ***Download from Google Drive*** [HERE](https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link)<br/>
 
 
 ## ***Dataset Distribution***
