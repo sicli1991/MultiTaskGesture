@@ -1,0 +1,7 @@
+keras==2.12.0
+keras_nightly==2.10.0.dev2022071507
+matplotlib==3.4.2
+numpy==1.22.4
+PyYAML==6.0
+tensorflow==2.12.0
+tf_nightly==2.10.0.dev20220715
