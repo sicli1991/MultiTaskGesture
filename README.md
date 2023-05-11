@@ -21,7 +21,7 @@ Data captured with Viento-G thermal camera. We use background subtraction to det
 
 * We have 24 users(with both left and right hand)
 * Video captured in 30fps
-* Saved as 16 bit  640×480 TIFF
+* Saved as 16 bit  640×480 TIFF<br/>
 
 $ensp; ***Download from Google Drive*** [HERE](https://drive.google.com/file/d/1DaoVD-vdYuS9y7XGbFRgaxQd4y2tbIgH/view?usp=share_link)
 
