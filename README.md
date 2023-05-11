@@ -35,9 +35,11 @@ Data captured with Viento-G thermal camera. We use background subtraction to det
 
 >**Concealed Point marked as (9999,9999)**<br/> 
 
-> ***Download from Google Drive*** [HERE](https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link)<br/>
+> ***Full size Cropped Data Download*** [HERE](https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link)<br/>
 
-## ***Data Label***
+> ***Train&Test with FingerMap Label Pickle File*** [HERE](https://drive.google.com/file/d/1WhgqZzdLUWkirHdyTku9esrYFm2Is7FS/view?usp=share_link)
+> 
+## ***Data FingerMap Label***
 
 <p align='center'>
   <img width=60% height=60% src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/7fefbe78-4528-47a0-88a0-dc7d3224d6ee">
