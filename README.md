@@ -32,6 +32,13 @@ Data captured with Viento-G thermal camera. We use background subtraction to det
 
 > ***Download from Google Drive*** [HERE](https://drive.google.com/file/d/1XCc8_XF3VJBpRaXtiawVCsl2Ot1vUe4J/view?usp=share_link)<br/>
 
+## ***Data Label***
+
+<p align='center'>
+  <img width=60% height=60% src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/7fefbe78-4528-47a0-88a0-dc7d3224d6ee">
+  <img width=60% height=60% src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/f0429062-1ae7-474d-a1b9-29b4f266aea6">
+</p>
+
 ## ***Dataset Distribution***
 
 <p align='center'>
