@@ -61,3 +61,14 @@ Data captured with Viento-G thermal camera. We use background subtraction to det
 The model expects a fixed size input of size 100 × 100. The shared part of the model is similar to a U-Net architecture, and it consists of four convolutional layers, four max-pooling layers, and two up-convolutional layers. The encoder part of the network uses a series of max-pooling and convolutional layers to down-sample, the resolution to 6 × 6. This is followed by two up-convolution layers with skip connections to increase the resolution back to 25 × 25. <br/>
 The top two branches of the network perform the gesture classification and left-right hand detection tasks. They share two convolutional layers before separating into different paths. The gesture classification path uses a global average pooling layer followed by two dense layers. The handedness detection path uses a global average pooling layer and a dense output layer<br/>
 The last branch is responsible for the fingertips and wrist points localization task. This consists of four convolutional layers followed by an up-convolution and two convolutional layers. The final output dimensions of this block are 50×50×6. The first five channels predict the fingertip locations, and the sixth channel predicts the wrist points.<br/>
+
+## ***Hand Keypoints Misordering Correction***
+
+<p align='center'>
+  <img width=50% height=50% src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/1f582324-1441-41aa-9266-a6cc02ed0e62"/>
+</p>
+A. Depending on the left-right hand prediction, the wrist point closest to the thumb is selected as ‘origin’ (the red dot).<br/>
+B. Wrist-line and finger lines are drawn by connecting origin with other wrist point and fingertip respectively.<br/>
+C. Based on hand geometry, the thumb-line creates the biggest angle and the little-finger-line creates the smallest angle when joined with the wrist-line.<br/>
+
+
