@@ -58,8 +58,18 @@ Data captured with Viento-G thermal camera. We use background subtraction to det
 
 ## ***Paper***
 
-To get more information about the proposed method, please go through the [ArXiv](https://arxiv.org/abs/2303.01547v1) or [ResearchGate](https://www.researchgate.net/publication/369021389_Simultaneous_prediction_of_hand_gestures_handedness_and_hand_keypoints_using_thermal_images).
+To get more information about the proposed method, please go through the [ArXiv](https://arxiv.org/abs/2303.01547v1) or [ResearchGate](https://www.researchgate.net/publication/369021389_Simultaneous_prediction_of_hand_gestures_handedness_and_hand_keypoints_using_thermal_images).<br/>
 Plase cite the following paper if you are using our model and/or dataset.
+```
+@misc{li2023simultaneous,
+      title={Simultaneous prediction of hand gestures, handedness, and hand keypoints using thermal images}, 
+      author={Sichao Li and Sean Banerjee and Natasha Kholgade Banerjee and Soumyabrata Dey},
+      year={2023},
+      eprint={2303.01547},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## ***Model Structure***
 <p align='center'>
