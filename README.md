@@ -56,6 +56,11 @@ Data captured with Viento-G thermal camera. We use background subtraction to det
   <img height="150" src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/03cfd0ff-8713-42cd-8141-487906febcbb"/>
  </p>
 
+## ***Paper***
+
+To get more information about the proposed method, please go through the [ArXiv](https://arxiv.org/abs/2303.01547v1) or [ResearchGate](https://www.researchgate.net/publication/369021389_Simultaneous_prediction_of_hand_gestures_handedness_and_hand_keypoints_using_thermal_images).
+Plase cite the following paper if you are using our model and/or dataset.
+
 ## ***Model Structure***
 <p align='center'>
   <img height="350" src="https://github.com/sicli1991/MultiTaskGesture/assets/55030732/9c66df1f-eb83-463f-b977-940aeef34157"/>
